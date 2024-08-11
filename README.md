@@ -1,7 +1,9 @@
 # Run the Server:
 
+```
 cd .....
 npm run serve
+```
 
 # The Claude Dev VSCode Extension
 
